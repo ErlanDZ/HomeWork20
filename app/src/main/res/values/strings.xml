@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeWork2 0</string>
+    <string name="btn_activity">Go to Second Activity</string>
+    <string name="btn_second_activity">Send</string>
+</resources>
